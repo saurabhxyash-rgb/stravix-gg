@@ -1,0 +1,25 @@
+# Roadmap
+- [x] Ensure the hero background video keeps playing and restarts continuously
+- [x] Deliver the updated project source ZIP with portable local media
+- [x] Use the uploaded main website logo as the browser/search favicon
+- [x] Add Discord contact https://dsc.gg/stravix alongside the matching Gmail and Instagram icons
+- [x] Replace the 5th creator card with uploaded TP ESPORTS logo, 1.14M subscribers, animation, channel @TPESPORTS1M; keep everything else unchanged
+- [x] Rename NexusFX → StraviX everywhere (title, brand pill, footer, page info)
+- [x] Replace green Quackie card with uploaded RaiStar logo (@raistar), 12.9M subscribers, add animation
+- [x] Replace hero background video with YouTube GDEaBvnzSfs (desktop + mobile crop) — plays as a YouTube background because the video file can't be downloaded here
+- [x] StraviX contact: email Contactstravix@gmail.com, Instagram @Stravixagency, X removed
+- [x] Replace purple GamerBlox card with uploaded SNiPER LORD logo, 2.36M subscribers, animation, channel @sniperlordpro
+- [x] Replace orange LitFleet card with uploaded Katty's Kingdom logo, 835K subscribers, animation, channel @kattyskingdom
+- [x] Replace 4th (orange bokeh) card with uploaded RIOT FF logo, 8.94M subscribers, animation, channel @riotffofficial
+- [x] Keep the white background on the 3rd (Katty's Kingdom) and 4th (RIOT FF) logos, as the user asked
+- [x] Replace 5th card (SarahGrace) with uploaded RiotxSuhel photo, 219K subscribers, animation, channel @Riotxsuhel — user confirmed 5th, RIOT FF kept
+- [x] Replace 6th (yellow) card (The RawKnee Games) with uploaded Kaal logo, 71.7K subscribers, animation, channel @kaal1267
+- [x] Replace 1st featured video with YouTube Z2tHDL31Ftk (Kaal, Free Fire Prime 8) — cover picture uploaded
+- [x] Replace 2nd featured video with YouTube qAykcZH0tPM (RiotxSuhel, Free Fire memes) — cover picture uploaded
+- [x] Replace 3rd featured video with YouTube TMa4mEJNmPM (SniperLord, Guild Test 1v3) — cover picture uploaded
+- [x] Replace 1st featured video with YouTube Tcrm2Q0HObk (RIOT FF, Female Dynamic Duo) — cover picture uploaded
+- [x] Put YouTube Z2tHDL31Ftk (Kaal, Free Fire Prime 8) back as the 1st featured video
+- [x] Add YouTube LzvirDn9o4s (RiotxSuhel, AI meme reaction) as the 5th featured video — cover picture uploaded; 4th back to BeckBros
+- [x] Add YouTube Shorts OZSUJZjuLYY (Katty's Kingdom, Moba Legends build mistake) as the 6th featured video — cover picture uploaded
+- [x] Replace 6th featured video with YouTube VoWqGZhYCJU (RIOT FF, करोड़ों का Free Fire Collection) — cover picture uploaded
+- [x] Replace 4th featured video with YouTube Tcrm2Q0HObk (RIOT FF, Female Dynamic Duo) — cover picture already uploaded
