@@ -1,0 +1,15 @@
+StraviX project — updated source export
+
+1. Install Node.js 22+ and Bun.
+2. Open a terminal in this folder.
+3. Run: bun install
+4. Run: bun run dev
+5. Open the local address displayed in the terminal.
+
+Production: bun run build
+
+All original project images and the bundled showreel are included in public/media.
+The hero and featured videos stream from YouTube and need internet access.
+Google Fonts and initial dependency installation also need internet access.
+This is a source project, not a double-click static HTML website.
+Git metadata, installed dependencies, secrets and generated build output are excluded.
